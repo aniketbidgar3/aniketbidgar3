@@ -23,14 +23,16 @@
 
 ## 📝 PROJECT's ZONE
 🌐  Text Editor Website [**🔗**](https://texteditorium.vercel.app/)
+<br>
 🌐  Second Hand Book Store Website using react [**🔗**](https://bookshelf2nd.vercel.app/)
+<br>
 🌐  Second Hand Book Store Website using simple html,css [**🔗**](https://bookshelf2nd-basic.vercel.app/)
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aniketbidgar3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aniketbidgar3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbidgar3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ani2707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
