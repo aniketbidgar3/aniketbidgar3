@@ -1,10 +1,10 @@
-<img align="right" alt="Coding" width="400" height="" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="400" height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### Hey there :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Aniket+Bidgar)](https://git.io/typing-svg)
 ###### Glad to see you here :heart:
 
- 💫 About Me:
+# 💫 About Me:
 👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
 🌱 I’m currently learning React Js and Django framework
  📫 How to reach me www.linkedin.com/in/aniket-bidgar-335381250<br>
