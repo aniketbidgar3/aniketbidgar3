@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
-🌱 I’m currently learning React Js and Django framework
+🌱 I’m currently learning React Js and Django framework<br>
  📫 How to reach me www.linkedin.com/in/aniket-bidgar-335381250<br>
 
 
