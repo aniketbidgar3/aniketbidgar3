@@ -26,11 +26,11 @@
 ## 📝 PROJECT's ZONE
 🌐  Text Editor Website [**🔗**](https://texteditorium.vercel.app/)
 <br>
-🌐  Aniket Bidgar Portfolio Website using simple html,css [**🔗**](https://aniket-bidgar-portfolio.vercel.app/)
+🌐  Aniket Bidgar Portfolio Website using html,css,javscript [**🔗**](https://aniket-bidgar-portfolio.vercel.app/)
 <br>
 🌐  Second Hand Book Store Website using react [**🔗**](https://bookshelf2nd.vercel.app/)
 <br>
-🌐  Second Hand Book Store Website using simple html,css [**🔗**](https://bookshelf2nd-basic.vercel.app/)
+🌐  Second Hand Book Store Website using html,css,javascript [**🔗**](https://bookshelf2nd-basic.vercel.app/)
 
 
 # 📊 GitHub Stats:
