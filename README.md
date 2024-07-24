@@ -8,6 +8,8 @@
 👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
 I am currently pursuing my B.E from AISSMS College of Engineering Pune.<br>
 🌱 I’m currently learning React Js and Django framework<br>
+This is my Portfolio :  [**https://aniket-bidgar-portfolio.vercel.app/**](https://aniket-bidgar-portfolio.vercel.app/)
+<br>
  
 
 
@@ -25,8 +27,6 @@ I am currently pursuing my B.E from AISSMS College of Engineering Pune.<br>
 
 ## 📝 PROJECT's ZONE
 🌐  Text Editor Website [**🔗**](https://texteditorium.vercel.app/)
-<br>
-🌐  Aniket Bidgar Portfolio Website using html,css,javscript [**🔗**](https://aniket-bidgar-portfolio.vercel.app/)
 <br>
 🌐  Second Hand Book Store Website using react [**🔗**](https://bookshelf2nd.vercel.app/)
 <br>
