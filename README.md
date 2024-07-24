@@ -5,9 +5,8 @@
 ###### Glad to see you here :heart:
 
 # 💫 About Me:
-👋 Hi, I’m Aniket<br>👀 I’m interested in Coding<br>
+👋 Hi, I’m Aniket Bidgar<br>👀 I’m interested in Coding<br>
 I am currently pursuing my B.E from AISSMS College of Engineering Pune.<br>
-🌱 I’m currently learning React Js and Django framework<br>
 This is my Portfolio :  [**https://aniket-bidgar-portfolio.vercel.app/**](https://aniket-bidgar-portfolio.vercel.app/)
 <br>
  
