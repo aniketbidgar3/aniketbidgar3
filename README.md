@@ -57,5 +57,4 @@
 
 ---
 
-  <img src="https://visitcount.itsvg.in/api?id=aniketbidgar3&icon=5&color=2" alt="Visitor Count"/>
 
